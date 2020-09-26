@@ -10,8 +10,7 @@ body{
     color: #fff;
 }
 .container{
-    width: 600px;
-    height: 85vh;
+    width: 500px;
     position: absolute;
     top:45%;
     left:50%;
@@ -83,6 +82,6 @@ img{
 }
 #links-container{
     position: absolute;
-    top: 88%;
-    left: 32%;
+    top: 100%;
+    left: 29%;
 }
