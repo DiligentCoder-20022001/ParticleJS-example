@@ -11,7 +11,7 @@ body{
     color: #fff;
 }
 .container{
-    width: 600px;
+    width: 450px;
     height: 85vh;
     position: absolute;
     top:45%;
@@ -39,7 +39,7 @@ body{
 }
 h2{
     font-size: 2.5rem;
-    text-align: center;
+    left:5%;
 }
 .form-group{
     width:100%;
@@ -84,6 +84,6 @@ img{
 }
 #links-container{
     position: absolute;
-    top: 88%;
-    left: 32%;
+    top: 100%;
+    left: 27%;
 }
