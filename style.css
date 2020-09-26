@@ -73,7 +73,6 @@ i{
 }
 p{
     font-weight: 300;
-    padding: 0 0 0 25px;
     text-align: center;
 }
 img{
@@ -81,7 +80,7 @@ img{
     height: 200;
     border-radius: 50%;
     position: relative;
-    left: 30%;
+    left: 25%;
 }
 #links-container{
     position: absolute;
