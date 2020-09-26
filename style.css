@@ -1,0 +1,89 @@
+
+body{
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    height: 100vh;
+    line-height: 1.5;
+    background: linear-gradient(to left,rgba(0,0,0,0.89),rgba(0,0,0,0.9)),url(logo/Logo.jpg);
+    background-repeat: no-repeat;
+    color: #fff;
+}
+.container{
+    width: 600px;
+    height: 85vh;
+    position: absolute;
+    top:45%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background-color: rgba(255,255,255,0.1);
+    border-radius: 7px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid #fff;
+}
+.container1{
+    width: 800px;
+    position: absolute;
+    top:30%;
+    right: 50%
+    transform: translate(-50%,-50%);
+    background-color: rgba(255,255,255,0.1);
+    border-radius: 7px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.container form{
+    width: 100%;
+}
+h2{
+    font-size: 2.5rem;
+    text-align: center;
+}
+.form-group{
+    width:100%;
+}
+input{
+    color: #fff;
+}
+input{
+    width: 90%;
+    border: none;
+    background: none;
+    outline: none;
+    padding: 10px 15px;
+    border-bottom: 1px solid #fff;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    background:rgba(29,159,168);
+    border: none;
+    padding: 10px 40px;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 3px;
+    color: #fff;
+}
+i{
+    padding: 3.5px;
+    color:rgba(29,159,168) ;
+}
+p{
+    font-weight: 300;
+    padding: 0 0 0 25px;
+    text-align: center;
+}
+img{
+    width: 200;
+    height: 200;
+    border-radius: 50%;
+    position: relative;
+    left: 30%;
+}
+#links-container{
+    position: absolute;
+    top: 88%;
+    left: 32%;
+}
